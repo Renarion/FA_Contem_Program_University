@@ -28,8 +28,8 @@
 
 | Файл | Роль |
 | :--- | :--- |
-| `src/main/java/ex1/Calculator.java` | Точка входа (Main). |
-| `src/main/java/ex1/model/Arithmetic.java` | **Модель** (логика вычислений и меню). |
+| `src/main/java/pr1/Calculator.java` | Точка входа (Main). |
+| `src/main/java/pr1/model/Arithmetic.java` | **Модель** (логика вычислений и меню). |
 
 ---
 
@@ -39,8 +39,8 @@
 
 | Файл | Роль |
 | :--- | :--- |
-| `src/main/java/ex2/StringManipulator.java` | Точка входа. |
-| `src/main/java/ex2/model/TwoStrings.java` | **Модель** (логика обработки двух строк). |
+| `src/main/java/pr2/StringManipulator.java` | Точка входа. |
+| `src/main/java/pr2/model/TwoStrings.java` | **Модель** (логика обработки двух строк). |
 
 ---
 
@@ -50,8 +50,8 @@
 
 | Файл | Роль |
 | :--- | :--- |
-| `src/main/java/ex3/NumbersValidator.java` | Точка входа. |
-| `src/main/java/ex3/model/Numeric.java` | **Модель** (логика валидации и проверки). |
+| `src/main/java/pr3/NumbersValidator.java` | Точка входа. |
+| `src/main/java/pr3/model/Numeric.java` | **Модель** (логика валидации и проверки). |
 
 ---
 
@@ -61,8 +61,8 @@
 
 | Файл | Роль |
 | :--- | :--- |
-| `src/main/java/ex4/StringExplorer.java` | Точка входа. |
-| `src/main/java/ex4/model/StringMethods.java` | **Модель** (логика демонстрации методов). |
+| `src/main/java/pr4/StringExplorer.java` | Точка входа. |
+| `src/main/java/pr4/model/StringMethods.java` | **Модель** (логика демонстрации методов). |
 
 ---
 
